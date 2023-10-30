@@ -61,7 +61,7 @@ Overall, the visualisation provides a clear and intuitive representation of the 
 players into different positions. It allows for easy identification and analysis of players within each 
 cluster and can be used to make data-driven decisions for team selection or player recruitment.
 
-## Elbow Method to determine Suitable Number of Cluster –
+## Elbow Method to determine Suitable Number of Cluster
 In order to determine the optimal number of clusters for a K-means algorithm, several clustering 
 solutions must be tested and the Within Cluster Sum of Squares (WCSS) must be calculated for each 
 solution. The Elbow method is a popular approach for deciding how many clusters to keep based on 

@@ -90,16 +90,20 @@ researchers looking to optimize their clustering algorithms.
 
 ## Output
 
+### Forwards
 ![Forward](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Forward1.png)
 ![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Forward2.png)
 
+### Midfielders
 ![Midfielder](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder1.png)
 ![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder2.png)
 ![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder3.png)
 
+### Defenders
 ![Defender](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Defender1.png)
 ![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Defender2.png)
 
+### Goalkeepers
 ![GoalKeeper](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/GK1.png)
 ![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/GK2.png)
 

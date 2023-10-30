@@ -61,6 +61,8 @@ Overall, the visualisation provides a clear and intuitive representation of the 
 players into different positions. It allows for easy identification and analysis of players within each 
 cluster and can be used to make data-driven decisions for team selection or player recruitment.
 
+![Cluster Visualisation](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Cluster.jpg)
+
 ## Elbow Method to determine Suitable Number of Cluster
 In order to determine the optimal number of clusters for a K-means algorithm, several clustering 
 solutions must be tested and the Within Cluster Sum of Squares (WCSS) must be calculated for each 
@@ -84,4 +86,21 @@ our K-means algorithm, ensuring that our clustering solutions are both accurate 
 approach can be applied in a wide range of contexts, providing a valuable tool for data analysts and 
 researchers looking to optimize their clustering algorithms.
 
+![Elbow Method](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/ElbowMethod.jpg)
+
 ## Output
+
+![Forward](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Forward1.png)
+![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Forward2.png)
+
+![Midfielder](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder1.png)
+![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder2.png)
+![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Midfielder3.png)
+
+![Defender](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Defender1.png)
+![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/Defender2.png)
+
+![GoalKeeper](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/GK1.png)
+![](https://github.com/Amaan165/Smart-Player-Recommendation-System/blob/main/images/GK2.png)
+
+
